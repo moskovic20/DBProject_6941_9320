@@ -1,0 +1,20 @@
+1,David Cohen,055-1234567,Tel Aviv
+2,Sarah Levi,052-8765432,Jerusalem
+3,Michael Mizra,054-9012345,Haifa
+4,Rachel Avrahm,051-6789012,Rishon LeZion
+5,Yosef Dayan,053-3456789,Petah Tikva
+6,Miriam Katz,055-0123456,Ashdod
+7,Daniel Biton,052-7890123,Netanya
+8,Leah Gabay,054-4567890,Beersheba
+9,Moshe Peretz,051-1234567,Bnei Brak
+10,Rivka Shalom,053-8901234,Holon
+11,David Azulay,055-5678901,Bat Yam
+12,Sarah Cohen,052-2345678,Ramat Gan
+13,Michael Peret,054-9012345,Givatayim
+14,Rachel Dahan,051-6789012,Rehovot
+15,Yosef Aviram,053-3456789,Ashkelon
+16,Miriam Cohen,055-0123456,Kfar Saba
+17,Daniel Edri,052-7890123,Hod HaSharon
+18,Leah Gabai,054-4567890,Raanana
+19,Moshe Sayag,051-1234567,Lod
+20,Sarah Masoud,053-8901234,Ramla
