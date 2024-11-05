@@ -25,12 +25,6 @@ The implementation was done using **PL/SQL** in an **Oracle** environment.
 
 *Click the image to view a larger version.*
 
----
-
-## Key Technologies
-- **Database Platform**: Oracle
-- **Language**: PL/SQL
-- **Design**: ERD and DSD diagrams
 
 ---
 
