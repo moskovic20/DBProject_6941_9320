@@ -9,9 +9,14 @@ This project aims to optimize the management of blood donations within MDA, focu
 - Managing donation stations
 - Processing blood bank orders
 
-The system facilitates efficient matching of blood types, donation management, and maintains an up-to-date and reliable database.
+The system provides a robust database for storing and managing information related to blood donations.
+ It allows for locating suitable donors based on specific blood type requirements, retrieving detailed data for research purposes,
+ and efficiently handling blood unit orders for hospitals.
 
-We designed the database structure, created ERD and DSD diagrams, and implemented the functionality using **PL/SQL** in an **Oracle** environment.
+**Technologies and Design Methods Used:**  
+We designed the database structure using **ERD (Entity-Relationship Diagram)** and **DSD (Data Structure Diagram)**.
+The implementation was done using **PL/SQL** in an **Oracle** environment.
+
 
 ---
 
