@@ -11,15 +11,12 @@ This project aims to optimize the management of blood donations within MDA, focu
 
 The system facilitates efficient matching of blood types, donation management, and maintains an up-to-date and reliable database.
 
+We designed the database structure, created ERD and DSD diagrams, and implemented functionality using PL/SQL.
+
 ---
 
-## Entities
-- **Blood**: Unique identifier, blood type (A, B, O, AB), and Rh factor.
-- **Donor**: Details including first name, last name, gender, date of birth, weight, and phone number.
-- **Station**: Donation stations with the manager's name, city, and phone number.
-- **BloodBank**: Storage facilities for blood units, with manager and contact details.
-- **Donation**: Information on blood donations, including the date and validity status.
-- **Order**: Blood unit orders for hospitals, detailing the date, quantity, and order status.
+## ERD Diagram
+![ERD Diagram](https://github.com/moskovic20/DBProject_6941_9320/blob/main/DBProject_6941_9320/%D7%AA%D7%9E%D7%95%D7%A0%D7%95%D7%AA/ERD.png) <!-- Replace with the actual URL to your image -->
 
 ---
 
